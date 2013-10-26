@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crawler-appengine:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="crawler-appengine-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="crawler-appengine:war exploded" />
+    </root>
+  </artifact>
+</component>
